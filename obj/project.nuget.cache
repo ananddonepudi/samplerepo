@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "QAWQaY5Mpu2aXMkNrm9EJOdVQceM3PvWJms1Rvsty8NPxQVFsfxOpLPJNbDBp4e3hUBLEBr4Kgew0pSOw11NQA==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\netapps\\dockerwebapps\\samplewebapp\\samplewebapps\\samplewebapps\\samplewebapps.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.1\\microsoft.dotnet.ilcompiler.8.0.1.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.1\\microsoft.net.illink.tasks.8.0.1.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.1\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
